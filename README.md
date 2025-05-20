@@ -43,7 +43,7 @@
   <img src="https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp" height="30" alt="kaggle logo" />
 </div>
 
-## 🛠️ Skills
+# 🛠️ Skills
 
 ### Programming Languages
 - C
