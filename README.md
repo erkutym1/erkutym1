@@ -37,6 +37,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://mikaelahonen.com/img/google-colab.png" height="30" alt="colab logo" />
+  <img width="12" />
+  <img src="https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp" height="30" alt="kaggle logo" />
 </div>
 
 
