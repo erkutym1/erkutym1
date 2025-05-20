@@ -26,9 +26,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="30" alt="android logo" />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="30" alt="django logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="30" alt="flask logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" height="30" alt="machine learning logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30" alt="flutter logo" />
   <img width="12" />
