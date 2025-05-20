@@ -14,16 +14,35 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="30" alt="android logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="30" alt="django logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="30" alt="flask logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="30" alt="opencv logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30" alt="tensorflow logo" />
 </div>
+
 
 ###
 
