@@ -14,33 +14,33 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" title="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" title="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" title="C#" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="30" alt="android logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="30" alt="android logo" title="Android" />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" height="30" alt="machine learning logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" height="30" alt="machine learning logo" title="Machine Learning" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30" alt="flutter logo" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30" alt="flutter logo" title="Flutter" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git logo" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git logo" title="Git" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="30" alt="opencv logo" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="30" alt="opencv logo" title="OpenCV" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn logo" title="Scikit-learn" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30" alt="tensorflow logo" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30" alt="tensorflow logo" title="TensorFlow" />
   <img width="12" />
-  <img src="https://mikaelahonen.com/img/google-colab.png" height="30" alt="colab logo" />
+  <img src="https://mikaelahonen.com/img/google-colab.png" height="30" alt="colab logo" title="Google Colab" />
   <img width="12" />
-  <img src="https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp" height="30" alt="kaggle logo" />
+  <img src="https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp" height="30" alt="kaggle logo" title="Kaggle" />
 </div>
 
 ###
