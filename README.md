@@ -43,6 +43,29 @@
   <img src="https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp" height="30" alt="kaggle logo" />
 </div>
 
+## 🛠️ Skills
+
+### Programming Languages
+- C
+- C#
+- Python
+- HTML5
+- CSS3
+
+### Mobile App Development
+- Android
+- Flutter
+
+### Machine Learning & Data Science
+- Machine Learning
+- OpenCV
+- Scikit-learn
+- TensorFlow
+- Google Colab
+- Kaggle
+
+### Tools & Technologies
+- Git
 
 ###
 
