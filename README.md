@@ -30,7 +30,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" height="30" alt="machine learning logo" title="Machine Learning" />
   <img width="10" />
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30" alt="flutter logo" title="Flutter" />
-  <img width="10" />
+  <br/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git logo" title="Git" />
   <img width="10" />
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="30" alt="opencv logo" title="OpenCV" />
