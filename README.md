@@ -41,6 +41,8 @@
   <img src="https://mikaelahonen.com/img/google-colab.png" height="30" alt="colab logo" title="Google Colab" />
   <img width="12" />
   <img src="https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp" height="30" alt="kaggle logo" title="Kaggle" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" height="30" alt="jupyter logo" title="Jupyter Notebook" />
 </div>
 
 ###
