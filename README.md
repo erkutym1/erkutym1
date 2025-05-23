@@ -10,7 +10,7 @@
 
 ###
 
-<img width="13" />
+<img width="50" />
 <img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif"  />
 
 
@@ -51,7 +51,7 @@
 ###
 
 <div align="left">
-  <img width="13" />
+  <img width="14" />
   <a href="https://instagram.com/erkutym1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
