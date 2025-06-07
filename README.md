@@ -56,6 +56,8 @@
 
 
 ###
-
 <!-- Skill Icons -->
-<img src="https://skillicons.dev/icons?i=python,flutter,androidstudio,git,github,opencv,tensorflow,jupyter,html,css,c,cs&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,python,html,css,androidstudio,flutter,git,github,opencv,tensorflow,scikit-learn,jupyter,vscode,colab,kaggle&theme=dark" />
+</p>
+
