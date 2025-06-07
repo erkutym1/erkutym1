@@ -54,10 +54,3 @@
 
 <img src="https://raw.githubusercontent.com/erkutym1/erkutym1/output/snake.svg" alt="Snake animation" />
 
-
-###
-<!-- Skill Icons -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,python,html,css,androidstudio,flutter,git,github,opencv,tensorflow,scikit-learn,jupyter,vscode,colab,kaggle&theme=dark" />
-</p>
-
