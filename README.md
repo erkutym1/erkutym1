@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Erkut and I'm a software engineering student from Türkiye</h2>
+<h2 align="left">Hi 👋! My name is Erkut, software engineering student from Türkiye</h2>
 
 ###
 
@@ -57,33 +57,5 @@
 
 ###
 
-<!-- 🎉 Animasyonlu ve Gösterişli Bölüm Başlangıcı -->
-
-<div align="center">
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Erkut;Software+Engineering+Student+from+Türkiye;Loves+AI%2C+Flutter%2C+and+Robotics" alt="Typing SVG" />
-
-<br/>
-
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=erkutym1&theme=dracula&no-bg=true&no-frame=true&margin-w=15" />
-
-<br/>
-
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=erkutym1&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak stats" />
-
-<br/>
-
 <!-- Skill Icons -->
 <img src="https://skillicons.dev/icons?i=python,flutter,androidstudio,git,github,opencv,tensorflow,jupyter,html,css,c,cs&theme=dark" />
-
-<br/>
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/erkutym1/erkutym1/output/snake.svg" alt="Snake animation" />
-
-</div>
-
-<!-- 🎉 Animasyonlu Bölüm Sonu -->
