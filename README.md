@@ -10,7 +10,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" width="200" alt="AI GIF" />
 </div>
 
