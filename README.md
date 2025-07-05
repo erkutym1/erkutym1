@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" width="300" alt="AI GIF" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" width="200" alt="AI GIF" />
 </div>
 
 ###
