@@ -35,6 +35,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-%2300B6F1.svg?style=for-the-badge&logo=kaggle&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%230A0A23.svg?style=for-the-badge&logo=deepnote&logoColor=white)
+
 
 </div>
 
