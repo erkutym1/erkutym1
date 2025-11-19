@@ -12,8 +12,6 @@
 
 ###
 
-<img align="right" width="250" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" alt="AI GIF" />
-
 ### 🚀 Languages & Tools
 
 <div align="left">
