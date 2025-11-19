@@ -7,7 +7,7 @@
   <img width="10" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erkutym1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   <img width="10" />
-  <img align="right" width="150" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" alt="AI GIF" />
+  <img align="right" width="200" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" alt="AI GIF" />
 </div>
 
 ###
