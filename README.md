@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! This is Erkut, Software Developer from Türkiye👋</h2>
+<h2 align="left">Hi there! This is Erkut Yıldırım, Software Developer from Türkiye👋</h2>
 
 ###
 
