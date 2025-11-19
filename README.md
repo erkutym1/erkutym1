@@ -35,15 +35,3 @@
 </div>
 
 ###
-
-### 🌐 Connect with me
-
-<div align="left">
-  <a href="https://linktr.ee/erkutym1" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-%2327C7A9.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-  </a>
-</div>
-
-###
-
-<br clear="both" />
