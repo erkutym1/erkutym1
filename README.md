@@ -3,8 +3,8 @@
 ###
 
 <div align="left">
-  <!-- count_private parametresi kaldırıldı, public sunucuda çalışması için -->
-  <img src="https://github-readme-stats.vercel.app/api?username=erkutym1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph" />
+  <!-- include_all_commits kaldırıldı, hata düzelmesi için -->
+  <img src="https://github-readme-stats.vercel.app/api?username=erkutym1&show_icons=true&hide_title=false&hide_rank=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph" />
   <img width="8" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erkutym1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph" />
   <img width="8" />
