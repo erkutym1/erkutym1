@@ -12,6 +12,8 @@
 
 ###
 
+<p>Professional projects and custom solutions in the fields of Artificial Intelligence (AI), Machine Learning (ML), Deep Learning, Image Processing, Signal Processing, and Web Development.</p>
+
 ### 🚀 Languages & Tools
 
 <div align="left">
