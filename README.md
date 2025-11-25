@@ -1,49 +1,36 @@
-<h1 align="center">Hi 👋, I'm Erkut Yıldırım</h1>
-<h3 align="center">Passionate Software Developer & AI Enthusiast from Türkiye 🇹🇷</h3>
+<h2 align="left">Hi there! This is Erkut Yıldırım, Software Developer from Türkiye👋</h2>
 
-<p align="center">
-  <a href="mailto:erkutyildirim12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.erkutyildirim.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://erkut-yldrm.linkzae.com">
-    <img src="https://img.shields.io/badge/Linktree-1de9b6.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-  </a>
-</p>
+###
 
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Deep+Learning+Enthusiast;Always+Building+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erkutym1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF" alt="Erkut's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erkutym1&theme=dracula&hide_border=true&border_radius=10&fire=FF5733&ring=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
+<div align="left">
+  <!-- count_private parametresi kaldırıldı, public sunucuda çalışması için -->
+  <img src="https://github-readme-stats.vercel.app/api?username=erkutym1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph" />
+  <img width="8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erkutym1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph" />
+  <img width="8" />
+  <img height="140" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" alt="AI GIF" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erkutym1&layout=compact&theme=dracula&hide_border=true&title_color=00D4FF&text_color=ffffff&langs_count=8&card_width=400" alt="Top Languages" />
+###
+
+### 🚀 Languages & Tools
+
+<div align="left">
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300BFFF.svg?style=for-the-badge&logo=ghost&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%230A0A23.svg?style=for-the-badge&logo=deepnote&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="https://github.com/erkutym1/erkutym1/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<br/>
-
-### 🚀 Tech Stack & Superpowers
-
-```text
-Languages     • C • C# • Python • TypeScript • JavaScript • HTML5 • CSS3
-Frameworks    • Next.js • React • .NET • FastAPI • Flask
-AI / ML       • TensorFlow • Keras • PyTorch • Scikit-learn • OpenCV • YOLO
-Tools         • Git • Docker • Android • Linux • Postman • VS Code
-Databases     • PostgreSQL • MongoDB • SQLite
-Cloud         • AWS (S3, EC2, Lambda) • Firebase • Vercel
